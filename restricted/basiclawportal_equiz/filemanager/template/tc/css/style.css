@@ -1,0 +1,6 @@
+@charset "utf-8";
+@import url('../../common/css/core.css');
+@import url('../../common/css/content.css');
+@import url('../../common/css/media_query.css');
+@import url('../../common/css/jquery-ui.css');
+@import url('../../common/css/jquery.fancybox.css');
